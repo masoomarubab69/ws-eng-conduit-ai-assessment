@@ -84,3 +84,6 @@ export const {
 } = slice.actions;
 
 export default slice.reducer;
+<label for="co-authors">Co-Authors (comma-separated emails):</label>
+<input type="text" id="co-authors" name="co-authors" />
+  
